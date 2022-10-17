@@ -1,0 +1,15 @@
+.heading {
+    font-size:40px;
+    background-color:deeppink;
+    color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.note {
+    font-size:20px;
+}
+
+canvas {
+    border:3px ridge deeppink;
+    margin-top: 150px;
+}
